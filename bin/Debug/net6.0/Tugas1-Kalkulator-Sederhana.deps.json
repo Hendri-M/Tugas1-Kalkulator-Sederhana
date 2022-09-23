@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tugas1-Kalkulator-Sederhana/1.0.0": {
+        "runtime": {
+          "Tugas1-Kalkulator-Sederhana.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tugas1-Kalkulator-Sederhana/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

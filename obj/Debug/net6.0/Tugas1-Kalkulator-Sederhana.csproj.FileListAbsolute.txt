@@ -1,0 +1,15 @@
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\bin\Debug\net6.0\Tugas1-Kalkulator-Sederhana.exe
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\bin\Debug\net6.0\Tugas1-Kalkulator-Sederhana.deps.json
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\bin\Debug\net6.0\Tugas1-Kalkulator-Sederhana.runtimeconfig.json
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\bin\Debug\net6.0\Tugas1-Kalkulator-Sederhana.dll
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\bin\Debug\net6.0\Tugas1-Kalkulator-Sederhana.pdb
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\obj\Debug\net6.0\Tugas1-Kalkulator-Sederhana.csproj.AssemblyReference.cache
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\obj\Debug\net6.0\Tugas1-Kalkulator-Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\obj\Debug\net6.0\Tugas1-Kalkulator-Sederhana.AssemblyInfoInputs.cache
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\obj\Debug\net6.0\Tugas1-Kalkulator-Sederhana.AssemblyInfo.cs
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\obj\Debug\net6.0\Tugas1-Kalkulator-Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\obj\Debug\net6.0\Tugas1-Kalkulator-Sederhana.dll
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\obj\Debug\net6.0\refint\Tugas1-Kalkulator-Sederhana.dll
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\obj\Debug\net6.0\Tugas1-Kalkulator-Sederhana.pdb
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\obj\Debug\net6.0\Tugas1-Kalkulator-Sederhana.genruntimeconfig.cache
+C:\Users\Ndroot\OneDrive\Github\Tugas1-Kalkulator-Sederhana\obj\Debug\net6.0\ref\Tugas1-Kalkulator-Sederhana.dll
